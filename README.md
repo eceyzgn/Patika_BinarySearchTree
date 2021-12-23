@@ -6,10 +6,10 @@ Patika Binary Search Tree Projesi
 6 root olsun
 
                 6
-          4               7
-      3      5          8  9
-    1   2
-    0
+          3                  7
+      2       4            8  9
+    0   1     5
+    
    
               
               
